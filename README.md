@@ -45,9 +45,10 @@
 * src
   * app.js
   * router.js
-  * reset.js
-  * style.js
+  * reset.css
+  * style.css
 * index.html
+* info.ver
 
 ## Dependencies
 |Plugins|Version|
