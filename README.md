@@ -84,7 +84,7 @@
 ## Review
 ### 어려웠던 점
 - Unit test 진행을 위해 mocha와 jest를 시도해봤지만 해당 부분에 대한 경험이 없어서 적용하지 못함
-- Unit test를 진행하지 못하여, Validation에 적합한 형태로 코드를 작성하지 못함
+- Unit test를 진행하지 못하여, Validation에 적합한 형태로 코드인지 구분이 어려움
 
 ### 개선할 부분
 - handlebars를 이용한 라우팅은 Vanilla JS 만으로 라우팅을 구현할 수 있는 장점은 있었으나, 존재하지 않는 url로 접근 할 경우 에러가 발생
